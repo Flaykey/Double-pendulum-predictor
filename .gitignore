@@ -1,0 +1,14 @@
+# Virtual environment folder
+venv/
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local IDE folders
+.vscode/
+
+# Data and asset directories
+data/
+redist/
